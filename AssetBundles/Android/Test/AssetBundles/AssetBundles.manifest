@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 2335023359
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: text.assetbundle
+      Dependencies: {}
+    Info_1:
+      Name: ui/atlas/comm.assetbundle
+      Dependencies: {}
+    Info_2:
+      Name: ui/atlas/emoji.assetbundle
+      Dependencies: {}
+    Info_3:
+      Name: ui/atlas/group.assetbundle
+      Dependencies: {}
+    Info_4:
+      Name: ui/atlas/hyper.assetbundle
+      Dependencies: {}
+    Info_5:
+      Name: ui/atlas/login.assetbundle
+      Dependencies: {}
+    Info_6:
+      Name: ui/atlas/role.assetbundle
+      Dependencies: {}
+    Info_7:
+      Name: ui/fonts.assetbundle
+      Dependencies: {}
+    Info_8:
+      Name: ui/image/loading.assetbundle
+      Dependencies: {}
+    Info_9:
+      Name: ui/image/login.assetbundle
+      Dependencies: {}
+    Info_10:
+      Name: ui/prefabs/common.assetbundle
+      Dependencies:
+        Dependency_0: ui/atlas/comm.assetbundle
+        Dependency_1: ui/fonts.assetbundle
+    Info_11:
+      Name: ui/prefabs/uibattle.assetbundle
+      Dependencies: {}
+    Info_12:
+      Name: ui/prefabs/uiloading.assetbundle
+      Dependencies:
+        Dependency_0: ui/atlas/comm.assetbundle
+        Dependency_1: ui/atlas/role.assetbundle
+        Dependency_2: ui/fonts.assetbundle
+        Dependency_3: ui/image/loading.assetbundle
+    Info_13:
+      Name: ui/prefabs/uilogin.assetbundle
+      Dependencies:
+        Dependency_0: ui/atlas/comm.assetbundle
+        Dependency_1: ui/atlas/group.assetbundle
+        Dependency_2: ui/atlas/login.assetbundle
+        Dependency_3: ui/fonts.assetbundle
+        Dependency_4: ui/image/login.assetbundle
+    Info_14:
+      Name: ui/prefabs/uimain.assetbundle
+      Dependencies:
+        Dependency_0: ui/atlas/comm.assetbundle
+        Dependency_1: ui/fonts.assetbundle

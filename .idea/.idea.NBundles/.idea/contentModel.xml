@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\UnityProjects\NBundles" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="AssetsPackage" t="Include">
+          <e p="Shaders" t="Include">
+            <e p="Model" t="Include">
+              <e p="Particles-Add-R.shader" t="Include" />
+              <e p="Particles-Add-RGBA.shader" t="Include" />
+            </e>
+            <e p="UI" t="Include">
+              <e p="T_UIParticle.shader" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="NBundles" t="Include">
+          <e p="Editor" t="Include">
+            <e p="AssetBundle" t="Include">
+              <e p="AssetBundleManagerEditor.cs" t="Include" />
+              <e p="AssetbundleMenuItems.cs" t="Include" />
+              <e p="Build" t="Include">
+                <e p="AssetsPathMappingEditor.cs" t="Include" />
+                <e p="VariantMappingEditor.cs" t="Include" />
+              </e>
+              <e p="Common" t="Include">
+                <e p="GUILayoutUtils.cs" t="Include" />
+                <e p="ProcessUtils.cs" t="Include" />
+              </e>
+              <e p="Dispatcher" t="Include">
+                <e p="AssetBundleChecker.cs" t="Include" />
+                <e p="AssetBundleDispatcher.cs" t="Include" />
+                <e p="AssetBundleDispatcherConfig.cs" t="Include" />
+              </e>
+              <e p="Inspector" t="Include">
+                <e p="AssetBundleDispatcherInspector.cs" t="Include" />
+                <e p="AssetBundleInspectorUtils.cs" t="Include" />
+              </e>
+              <e p="LocalServer" t="Include">
+                <e p="ExecuteInternalMono.cs" t="Include" />
+                <e p="LaunchAssetBundleServer.cs" t="Include" />
+              </e>
+              <e p="Tools" t="Include">
+                <e p="AssetBundleEditorHelper.cs" t="Include" />
+                <e p="AssetBundleImporter.cs" t="Include" />
+              </e>
+            </e>
+            <e p="PackageBuild" t="Include">
+              <e p="BuildPlayer.cs" t="Include" />
+              <e p="CheckAssetBundles.cs" t="Include" />
+              <e p="PackageTool.cs" t="Include" />
+              <e p="PackageUtils.cs" t="Include" />
+              <e p="SymbolsSetting.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Runtime" t="Include">
+            <e p="AssetBundle" t="Include">
+              <e p="AssetBundleLoader.cs" t="Include" />
+              <e p="AssetBundleManager.cs" t="Include" />
+              <e p="AssetBundleManager.Editor.cs" t="Include" />
+              <e p="AssetbundleUpdater.cs" t="Include" />
+              <e p="AssetBundleVersion.cs" t="Include" />
+              <e p="AsyncOperation" t="Include">
+                <e p="AssetAsyncLoader.cs" t="Include" />
+                <e p="AssetBundleAsyncLoader.cs" t="Include" />
+                <e p="AssetBundleRequest.cs" t="Include" />
+                <e p="BaseLoader.cs" t="Include" />
+                <e p="EditorAssetAsyncLoader.cs" t="Include" />
+                <e p="EditorAssetBundleAsyncLoader.cs" t="Include" />
+                <e p="UnityWebAssetRequest.cs" t="Include" />
+                <e p="WebAssetRequest.cs" t="Include" />
+              </e>
+              <e p="Config" t="Include">
+                <e p="AssetBundleConfig.cs" t="Include" />
+                <e p="AssetsPathMapping.cs" t="Include" />
+                <e p="Manifest.cs" t="Include" />
+                <e p="VersionList.cs" t="Include" />
+              </e>
+              <e p="Utility" t="Include">
+                <e p="AssetBundleUtility.cs" t="Include" />
+                <e p="BuildUtility.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Channel" t="Include">
+              <e p="AndoridSDKListener.cs" t="Include" />
+              <e p="AndroidSDKHelper.cs" t="Include" />
+              <e p="BaseChannel.cs" t="Include" />
+              <e p="ChannelConfig.cs" t="Include" />
+              <e p="ChannelManager.cs" t="Include" />
+              <e p="implement" t="Include">
+                <e p="AppStoreChannel.cs" t="Include" />
+                <e p="TestChannel.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Common" t="Include">
+              <e p="Http" t="Include">
+                <e p="NetworkHttp.cs" t="Include" />
+              </e>
+              <e p="Json" t="Include">
+                <e p="IJsonWrapper.cs" t="Include" />
+                <e p="JsonData.cs" t="Include" />
+                <e p="JsonException.cs" t="Include" />
+                <e p="JsonMapper.cs" t="Include" />
+                <e p="JsonMockWrapper.cs" t="Include" />
+                <e p="JsonReader.cs" t="Include" />
+                <e p="JsonWriter.cs" t="Include" />
+                <e p="Lexer.cs" t="Include" />
+                <e p="Netstandard15Polyfill.cs" t="Include" />
+                <e p="ParserToken.cs" t="Include" />
+              </e>
+              <e p="Logger" t="Include">
+                <e p="Logger.cs" t="Include" />
+              </e>
+              <e p="Singleton" t="Include">
+                <e p="MonoSingleton.cs" t="Include" />
+                <e p="Singleton.cs" t="Include" />
+              </e>
+              <e p="Utility" t="Include">
+                <e p="ByteUtility.cs" t="Include" />
+                <e p="FileUtility.cs" t="Include" />
+                <e p="GameUtility.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Config" t="Include">
+              <e p="URLSetting.cs" t="Include" />
+            </e>
+            <e p="GameLaunch" t="Include">
+              <e p="GameLaunch.cs" t="Include" />
+            </e>
+            <e p="UI" t="Include">
+              <e p="UILauncher.cs" t="Include" />
+              <e p="UINoticeTip.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Samples" t="Include">
+            <e p="Sample.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="NBundles.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\Gillar\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Gillar\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_NBundles.-373323900.00" t="ExcludeRecursive" />
+  </component>
+</project>

@@ -1,0 +1,71 @@
+ManifestFileVersion: 0
+CRC: 2460335170
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 706e912cd818f3db7ce052fcdc8a6840
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8c9e48a7f9060e6054aa9ad33152df90
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2a4db7a114972834c8e4117be1d82ba3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d199490a83bb2b844b9695cbf13b01ef, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetsPackage/UI/Prefabs/UILogin/UILogin.prefab
+- Assets/AssetsPackage/UI/Prefabs/UILogin/UILoginServer.prefab
+Dependencies:
+- C:/UnityProjects/NBundles/AssetBundles/Android/Test/AssetBundles/ui/atlas/comm.assetbundle
+- C:/UnityProjects/NBundles/AssetBundles/Android/Test/AssetBundles/ui/atlas/group.assetbundle
+- C:/UnityProjects/NBundles/AssetBundles/Android/Test/AssetBundles/ui/atlas/login.assetbundle
+- C:/UnityProjects/NBundles/AssetBundles/Android/Test/AssetBundles/ui/fonts.assetbundle
+- C:/UnityProjects/NBundles/AssetBundles/Android/Test/AssetBundles/ui/image/login.assetbundle

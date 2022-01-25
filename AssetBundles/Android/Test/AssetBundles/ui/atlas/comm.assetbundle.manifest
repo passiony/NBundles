@@ -1,0 +1,105 @@
+ManifestFileVersion: 0
+CRC: 4203542600
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 732e74bca6cee38a19549f583335b7bf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c90fc19e2679e5295d10bd00f33cb4c3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_sign_battle.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_sign_away.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_role_04.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_alpha.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_pic_score.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_equip_07.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_frame_rank_green.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_bg_underlay_h.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_bg_underlay_g.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_main_032.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_tab_b_act.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_sign_arrow_c.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_tab_a_01_nor.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_main_12.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_sign_plus_a.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_btn_e.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_role_22.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_btn_a.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_tab_a_02_act.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_sign_arrow_b.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_frame_rank_gold.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_pet_10.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_frame_choose.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_sign_captain.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_role_63.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_frame_rank_orange.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_mask_square.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_tab_a_04_nor.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_bg_underlay_d.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_bg_underlay_b.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_tab_a_01_act.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_line_b.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_role_44.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_equip_28.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_frame_rank_purple.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_mask_scroll.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_sign_yinpiao.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_sign_notice.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_line_c.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_frame_rank_white.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_sign_plus_c.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_tab_a_03_act.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_btn_d.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_main_35.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_frame_choose.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_role_23.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_role_11.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_btn_close.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_main_86.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_sign_plus.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_tab_a_04_act.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_frame_rank_blue.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_role_42.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_sign_lock.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_main_26.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_main_72.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_main_03.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_sign_arrow_a.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_light_round.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_btn_frame.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_frame_choose_L.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_bg_underlay_e.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_frame_round.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_btn_c.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_role_41.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_bg_underlay_f.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_sign_yuanbao.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_bg_underlay_a.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_main_85.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_btn_b.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_tab_b_nor.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_bg_underlay_pic.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_role_43.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_pic_moji.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_sign_tongqian.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_sign_plus_b.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_mask_round.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_pet_17.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_frame_item.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_sign_numbg.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_mask_hexagon.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_line_d.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_line_a.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_tab_a_03_nor.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_tab_a_02_nor.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_bg_underlay_c.png
+- Assets/AssetsPackage/UI/Atlas/Comm/ui_comm_pic_table.png
+Dependencies: []
