@@ -27,7 +27,6 @@ namespace AssetBundles
         const string kToolsOpenOutput = "AssetBundles/Open Current Output";
         const string kToolsOpenPerisitentData = "AssetBundles/Open PersistentData";
         const string kToolsClearOutput = "AssetBundles/Clear Current Output";
-        const string kToolsClearEncryptOutput = "AssetBundles/Clear Encrypt Output";
         const string kToolsClearStreamingAssets = "AssetBundles/Clear StreamingAssets";
         const string kToolsClearPersistentAssets = "AssetBundles/Clear PersistentData";
 
@@ -205,24 +204,6 @@ namespace AssetBundles
             FileUtility.SafeDeleteDir(outputPath);
             Debug.Log(string.Format("Clear done : {0}", outputPath));
         }
-
-        [MenuItem(kToolsClearEncryptOutput, false, 1302)]
-        static public void ToolsClearEncryptOutput()
-        {
-            var buildTargetName = PackageUtils.GetCurPlatformName();
-            var channelName = PackageUtils.GetCurSelectedChannel().ToString();
-            bool checkClear = EditorUtility.DisplayDialog("ClearOutput Warning",
-                string.Format("Clear encrypt output assetbundles will force to rebuild all : \n\nplatform : {0} \nchannel : {1} \n\n continue ?", buildTargetName, channelName),
-                "Yes", "No");
-            if (!checkClear)
-            {
-                return;
-            }
-            string outputPath = PackageUtils.GetCurBuildSettingAssetBundleOutputPath();
-            FileUtility.SafeDeleteDir(outputPath);
-            Debug.Log(string.Format("Clear done : {0}", outputPath));
-        }
-
 
         [MenuItem(kToolsClearStreamingAssets, false, 1303)]
         static public void ToolsClearStreamingAssets()
